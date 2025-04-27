@@ -94,7 +94,7 @@ The project workflow is organized into the following stages:
 
 This project was developed by:  
 - **Abdelfatah Ibrahim Abdelfatah** [Team Leader]
-- **Ahmed Mohamed**
+- **Ahmed Mohamed Ahmed**
 - **Eslam Moheyeldeen Hassan**
 - **Mohamed Ali Mostafa**
 - **Louay Mohamed Abdelsalam**
