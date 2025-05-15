@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/26fe6b71bf6f4367b6c80951df40d97e/artifacts
+end_time: 1747252906424
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 26fe6b71bf6f4367b6c80951df40d97e
+run_name: grandiose-turtle-857
+run_uuid: 26fe6b71bf6f4367b6c80951df40d97e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747252890884
+status: 3
+tags: []
+user_id: loaim

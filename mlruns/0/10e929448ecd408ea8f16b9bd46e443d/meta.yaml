@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/10e929448ecd408ea8f16b9bd46e443d/artifacts
+end_time: 1747255454779
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10e929448ecd408ea8f16b9bd46e443d
+run_name: glamorous-ox-722
+run_uuid: 10e929448ecd408ea8f16b9bd46e443d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255450713
+status: 3
+tags: []
+user_id: loaim

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/14ec1f56c6fd4abd87933132c2056291/artifacts
+end_time: 1747331660419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14ec1f56c6fd4abd87933132c2056291
+run_name: stately-moose-571
+run_uuid: 14ec1f56c6fd4abd87933132c2056291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747331652613
+status: 3
+tags: []
+user_id: loaim

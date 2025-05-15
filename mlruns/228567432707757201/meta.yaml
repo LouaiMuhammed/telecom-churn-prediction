@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/exp_artifacts
+creation_time: 1747331651935
+experiment_id: '228567432707757201'
+last_update_time: 1747331651935
+lifecycle_stage: active
+name: logistic_regression

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/exp_artifacts/06098d75e60049258e26d22b12af0e8b/artifacts
+end_time: 1747332587253
+entry_point_name: ''
+experiment_id: '217080086271163970'
+lifecycle_stage: active
+run_id: 06098d75e60049258e26d22b12af0e8b
+run_name: logging_params
+run_uuid: 06098d75e60049258e26d22b12af0e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332587131
+status: 3
+tags: []
+user_id: loaim

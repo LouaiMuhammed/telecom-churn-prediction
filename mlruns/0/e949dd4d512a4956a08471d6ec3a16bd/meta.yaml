@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/e949dd4d512a4956a08471d6ec3a16bd/artifacts
+end_time: 1747255442297
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e949dd4d512a4956a08471d6ec3a16bd
+run_name: zealous-fly-362
+run_uuid: e949dd4d512a4956a08471d6ec3a16bd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255442042
+status: 3
+tags: []
+user_id: loaim

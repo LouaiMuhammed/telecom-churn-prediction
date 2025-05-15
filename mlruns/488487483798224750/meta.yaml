@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/exp_artifacts
+creation_time: 1747332588323
+experiment_id: '488487483798224750'
+last_update_time: 1747332588323
+lifecycle_stage: active
+name: xgboost

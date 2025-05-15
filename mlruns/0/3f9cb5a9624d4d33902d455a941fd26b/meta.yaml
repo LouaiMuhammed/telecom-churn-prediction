@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/3f9cb5a9624d4d33902d455a941fd26b/artifacts
+end_time: 1747331712380
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f9cb5a9624d4d33902d455a941fd26b
+run_name: loud-ox-963
+run_uuid: 3f9cb5a9624d4d33902d455a941fd26b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747331703095
+status: 3
+tags: []
+user_id: loaim

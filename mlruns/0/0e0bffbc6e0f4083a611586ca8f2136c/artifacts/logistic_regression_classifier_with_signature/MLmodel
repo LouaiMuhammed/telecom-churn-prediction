@@ -1,0 +1,41 @@
+artifact_path: logistic_regression_classifier_with_signature
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.22.0
+model_size_bytes: 4382
+model_uuid: 88185e7e3647431a995d7245ade42089
+prompts: null
+run_id: 0e0bffbc6e0f4083a611586ca8f2136c
+signature:
+  inputs: '[{"type": "string", "name": "gender", "required": true}, {"type": "string",
+    "name": "SeniorCitizen", "required": true}, {"type": "string", "name": "Partner",
+    "required": true}, {"type": "string", "name": "Dependents", "required": true},
+    {"type": "long", "name": "tenure", "required": true}, {"type": "string", "name":
+    "PhoneService", "required": true}, {"type": "string", "name": "MultipleLines",
+    "required": true}, {"type": "string", "name": "InternetService", "required": true},
+    {"type": "string", "name": "OnlineSecurity", "required": true}, {"type": "string",
+    "name": "OnlineBackup", "required": true}, {"type": "string", "name": "DeviceProtection",
+    "required": true}, {"type": "string", "name": "TechSupport", "required": true},
+    {"type": "string", "name": "StreamingTV", "required": true}, {"type": "string",
+    "name": "StreamingMovies", "required": true}, {"type": "string", "name": "Contract",
+    "required": true}, {"type": "string", "name": "PaperlessBilling", "required":
+    true}, {"type": "string", "name": "PaymentMethod", "required": true}, {"type":
+    "double", "name": "MonthlyCharges", "required": true}, {"type": "double", "name":
+    "TotalCharges", "required": true}]'
+  outputs: '[{"type": "string", "name": "Churn", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-05-15 17:41:43.239847'

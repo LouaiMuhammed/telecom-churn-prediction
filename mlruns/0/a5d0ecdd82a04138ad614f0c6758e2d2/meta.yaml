@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/a5d0ecdd82a04138ad614f0c6758e2d2/artifacts
+end_time: 1747255681563
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a5d0ecdd82a04138ad614f0c6758e2d2
+run_name: able-wolf-229
+run_uuid: a5d0ecdd82a04138ad614f0c6758e2d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747255677017
+status: 3
+tags: []
+user_id: loaim

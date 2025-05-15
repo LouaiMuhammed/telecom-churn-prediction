@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/loaim/OneDrive/Desktop/telecom-churn-prediction/mlruns/0/802f56ee1f494bb4bd0497f9b9c20ea8/artifacts
+end_time: 1747334085239
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 802f56ee1f494bb4bd0497f9b9c20ea8
+run_name: fortunate-eel-266
+run_uuid: 802f56ee1f494bb4bd0497f9b9c20ea8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747332590710
+status: 3
+tags: []
+user_id: loaim
