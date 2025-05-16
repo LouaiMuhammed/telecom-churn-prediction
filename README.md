@@ -85,8 +85,7 @@ The project workflow is organized into the following stages:
   - Matplotlib
   - Seaborn
   - Scikit-learn
-
-More to be found in `requirements.txt`
+  - More to be found in `requirements.txt`
 ---
 
 
