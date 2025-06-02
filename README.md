@@ -65,7 +65,6 @@ The project workflow is organized into the following stages:
 ## Repository Structure
 
 ```plaintext
-/project-root
 │
 ├── exp_artifacts/                 # model artifacts or experiment outputs
 │
