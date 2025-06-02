@@ -59,18 +59,26 @@ The project workflow is organized into the following stages:
    - Building classification models to predict churn
    - Evaluating models using appropriate metrics such as accuracy, precision, recall, F1-score, and ROC-AUC
 
-*(Details on modeling and results will be updated as the project progresses.)*
 
 ---
 
 ## Repository Structure
 
 ```plaintext
-├── data/
-│   └── telecom_churn.csv  # Dataset file
-├── notebooks/
-│   └── churn_analysis_prediction.ipynb  # Main project notebook
-├── README.md
+/project-root
+│
+├── exp_artifacts/                 # model artifacts or experiment outputs
+│
+├── mlruns/                        # MLflow experiment tracking
+│
+├── README.md                      
+│
+├── requirements.txt              
+│
+├── telecom-churn-prediction.ipynb 
+│
+└── telecom_churn.csv              
+
 ```
 *(Folder structure might be updated as the project evolves.)*
 
@@ -85,6 +93,7 @@ The project workflow is organized into the following stages:
   - Matplotlib
   - Seaborn
   - Scikit-learn
+  - Statsmodels
   - More to be found in `requirements.txt`
 ---
 
